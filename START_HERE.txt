@@ -1,0 +1,1 @@
+Import this ZIP into Replit. Run: npm install, then npm start. Admin: /admin. No OpenAI key required for free rule-based mode.

@@ -1,0 +1,1 @@
+{"name":"shivam-ai-saas","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.js"},"dependencies":{"bcryptjs":"^3.0.2","better-sqlite3":"^11.8.1","cookie-parser":"^1.4.7","dotenv":"^16.4.7","express":"^5.1.0","jsonwebtoken":"^9.0.2","openai":"^5.12.0"}}
